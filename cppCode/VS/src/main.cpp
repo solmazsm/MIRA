@@ -1,5 +1,4 @@
 
-// Author: Solmaz Seyed Monir
 
 // Description: Modified and extended for multi-vector retrieval experiments in VectorSearch system
 // Date: April 2025
