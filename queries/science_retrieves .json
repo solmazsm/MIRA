@@ -1,0 +1,81 @@
+﻿{
+	"ids": [
+		[
+			"id72",
+			"id7",
+			"id30",
+			"id26",
+			"id23",
+			"id76",
+			"id69",
+			"id40",
+			"id47",
+			"id75"
+		]
+	],
+	"distances": [
+		[
+			1.2250351905822754,
+			1.3089773654937744,
+			1.391038179397583,
+			1.4064619541168213,
+			1.4391298294067383,
+			1.4898790121078491,
+			1.572824239730835,
+			1.5738128423690796,
+			1.5835297107696533,
+			1.5864628553390503
+		]
+	],
+	"metadatas": [
+		[
+			{
+				"topic": "TECHNOLOGY"
+			},
+			{
+				"topic": "SCIENCE"
+			},
+			{
+				"topic": "SCIENCE"
+			},
+			{
+				"topic": "SCIENCE"
+			},
+			{
+				"topic": "SCIENCE"
+			},
+			{
+				"topic": "SCIENCE"
+			},
+			{
+				"topic": "SCIENCE"
+			},
+			{
+				"topic": "SCIENCE"
+			},
+			{
+				"topic": "SCIENCE"
+			},
+			{
+				"topic": "SCIENCE"
+			}
+		]
+	],
+	"embeddings": null,
+	"documents": [
+		[
+			"Beck teams up with NASA and AI for 'Hyperspace' visual album experience",
+			"Orbital space tourism set for rebirth in 2021",
+			"NASA drops \"insensitive\" nicknames for cosmic objects",
+			"‘It came alive:’ NASA astronauts describe experiencing splashdown in SpaceX Dragon",
+			"Hubble Uses Moon As “Mirror” to Study Earth’s Atmosphere – Proxy in Search of Potentially Habitable Planets Around Other Stars",
+			"Australia's small yet crucial part in the mission to find life on Mars",
+			"NASA Astronauts in SpaceX Capsule Splashdown in Gulf Of Mexico",
+			"SpaceX's Starship spacecraft saw 150 meters high",
+			"NASA’s InSight lander shows what’s beneath Mars’ surface",
+			"Alien base on Mercury: ET hunters claim to find huge UFO"
+		]
+	],
+	"uris": null,
+	"data": null
+}

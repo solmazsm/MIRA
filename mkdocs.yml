@@ -1,0 +1,10 @@
+site_name: VectorSearch (VS)
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Getting Started: getting_started.md
+  - Benchmarks: benchmarks.md
+  - API Reference: api.md
+  - FAQ: faq.md
+  - Visualizations: visualizations.md
