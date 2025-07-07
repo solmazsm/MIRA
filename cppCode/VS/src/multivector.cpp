@@ -1,6 +1,3 @@
-// Author: Solmaz Seyed Monir
-// Description: Multi-vector retrieval implementation 
-// Dataset: deep1m - audio
 
 #include <iostream>
 #include <fstream>
