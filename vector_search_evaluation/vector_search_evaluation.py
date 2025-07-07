@@ -12,7 +12,6 @@ def train_and_evaluate_best_params(pdf_embeddings):
     index = NearestNeighbors(n_neighbors=100, metric='cosine')
     index.fit(pdf_embeddings)
     
-    # Simulate query for each document in pdf
     precision_scores = []
     recall_at_1_scores = []
     recall_at_10_scores = []
