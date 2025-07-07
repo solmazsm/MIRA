@@ -13,7 +13,7 @@
 
 #### This folder contains all the necessary implementations required to replicate the studies.
 
-### 📖 Documentation
+### Documentation
 
 The VectorSearch (VS) system includes comprehensive documentation for setup, usage, and evaluation. It provides:
 
@@ -23,7 +23,7 @@ The VectorSearch (VS) system includes comprehensive documentation for setup, usa
 - **API reference** for system modules and dataset loaders  
 - **Performance benchmarks** and comparison studies on real datasets
 
-## 📚 Dataset
+## Dataset
 
 The VectorSearch dataset is a collection of news articles and image feature vectors indexed using semantic vector embeddings for efficient search and retrieval. It includes articles from diverse news sources and visual feature datasets, supporting large-scale text and image retrieval experiments.
 
@@ -45,7 +45,7 @@ We extended this support to handle multi-vector inputs per document, enabling re
 
 
 ---
-### 📥 Download Instructions
+### Download Instructions
 
 Use the `prepare_dataset.py` script to download and preprocess datasets:
 
@@ -57,7 +57,8 @@ python scripts/prepare_dataset.py --dataset newscatcher
 
 - **Query Throughput (QPS)**  
 - **Memory Usage**  
-- **Recall@10**  
+- **Recall@10**
+- **Recall@100**  
 - **Mean Precision**  
 - **Query Time**
 
