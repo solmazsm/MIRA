@@ -1,5 +1,5 @@
 
-# MIRA: A Self-Optimizing Multi-Vector Indexing System for Scalable and Memory-Efficient Vector Retrieval
+# MIRA: A Self-Optimizing System for Scalable and Efficient Multi-Vector Retrieval
 
 
 
