@@ -15,6 +15,8 @@
 
 ### Documentation
 
+https://solmazsm.github.io/VectorSearch/
+
 The VectorSearch (VS) system includes comprehensive documentation for setup, usage, and evaluation. It provides:
 
 - **Getting Started tutorials** for both Python and C++ implementations  
