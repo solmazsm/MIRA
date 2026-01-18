@@ -2,7 +2,6 @@
 ## MIRA: A Self-Optimizing System for Scalable and Efficient Multi-Vector Retrieval
 
 
-
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C++-supported-blue.svg)](https://en.cppreference.com/)
 
