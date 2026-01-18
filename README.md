@@ -7,8 +7,6 @@
 [![C++](https://img.shields.io/badge/C++-supported-blue.svg)](https://en.cppreference.com/)
 
 
-
-
 ---
 
 #### This folder contains all the necessary implementations required to replicate the studies.
