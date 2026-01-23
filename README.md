@@ -98,7 +98,6 @@ Scripts for local and cloud deployment are included for reproducibility.
 - C++17 compiler (`g++`, `clang++`, MSVC)
 - `make` or `nmake` (Linux/macOS or Windows)
 
-
 ### Compilation (Linux/macOS)
 
 ```bash
